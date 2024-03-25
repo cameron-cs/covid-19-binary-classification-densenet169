@@ -1,0 +1,7 @@
+{
+    "data_dir": "data/archive",
+    "model_path": "model/saved/model_best.keras",
+    "test_dir": "data/test",
+    "target_size": [224, 224],
+    "batch_size": 32
+}

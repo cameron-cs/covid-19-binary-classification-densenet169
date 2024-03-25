@@ -1,0 +1,10 @@
+opencv-python
+numpy
+tensorflow
+scikit-learn
+keras
+keras-tuner
+pandas
+seaborn
+matplotlib
+argparse

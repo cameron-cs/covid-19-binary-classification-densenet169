@@ -1,0 +1,15 @@
+{
+    "data_dir": "data/archive",
+    "categories": ["COVID", "non-COVID"],
+    "model_save_path": "model/saved/model_best.keras",
+    "target_size": [224, 224],
+    "batch_size": 32,
+    "epochs": 100,
+    "rotation_range": 20,
+    "width_shift_range": 0.2,
+    "height_shift_range": 0.2,
+    "shear_range": 0.2,
+    "zoom_range": 0.2,
+    "horizontal_flip": true,
+    "fill_mode": "nearest"
+}
